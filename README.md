@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Togi
-- 👀 I’m interested in internet
+- 👀 I’m interested in the internet
 - 🌱 I’m currently learning web design/front end dev/databases
