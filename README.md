@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @togi2benji
+- 👀 I’m interested in internet
+- 🌱 I’m currently learning web design/front end dev/databases
